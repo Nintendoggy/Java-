@@ -12,4 +12,12 @@
 
 5.framework --> フレームワーク
 
-6.
+6.DI --> Dependency Injection 依頼性注入
+
+7.アーキテクチャ　-->　コンピュータ システムの論理的構造。
+
+8.スターターキット　--> starter kit 
+
+9.annotation --> アノテーション　
+
+10.container --> コンテナ　容器
